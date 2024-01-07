@@ -9,5 +9,4 @@ function App() {
   );
 }
 
-//left off at 36:15
 export default App;
